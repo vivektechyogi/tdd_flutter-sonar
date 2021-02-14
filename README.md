@@ -1,2 +1,8 @@
 # tdd_flutter
-A simple flutter project following Test Driven Development,
+
+A new Flutter application.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
